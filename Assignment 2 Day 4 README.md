@@ -12,7 +12,7 @@ Machine 2 :
 ![Screenshot (141)](https://user-images.githubusercontent.com/67362433/90972128-05684100-e534-11ea-804e-873c1bc08c05.png)
 
 
-Elatic Load Balancer :
+Elastic Load Balancer :
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/67362433/90972143-36487600-e534-11ea-97c8-24d9cf7ba6b8.png)
 
